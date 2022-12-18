@@ -1,4 +1,4 @@
-from rest_framework import viewsets, generics
+from rest_framework import viewsets
 from back.models import Personagem, Habilidades
 from back.serializer import PersonagemSerializer, HabilidadesSerializer
 
